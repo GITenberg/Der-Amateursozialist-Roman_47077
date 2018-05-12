@@ -1,15 +1,21 @@
 _repo: Der-Amateursozialist-Roman_47077
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cremer, Wilhelm
     gutenberg_agent_id: '44122'
     url: http://www.gutenberg.org/2009/agents/44122
+covers:
+- cover_type: archival
+  image_path: 47077-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaw, Bernhard
     gutenberg_agent_id: '44121'
     url: http://www.gutenberg.org/2009/agents/44121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47077#Der-Amateursozialist-Roman
 gutenberg_issued: '2014-10-08'
 gutenberg_type: Text
 identifiers:
